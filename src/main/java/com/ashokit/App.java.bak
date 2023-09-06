@@ -8,6 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! 123 1st amendment" );
+<<<<<<< HEAD
+        System.out.println( "Hello World! 123 1st amendment to last" );
+=======
+        System.out.println( "Hello World! 123 1st amendment ----" );
+>>>>>>> 9a71d1da5cbf33f8b319a5a5969e497013a6de52
     }
 }
